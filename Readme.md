@@ -1,3 +1,6 @@
 Olá! 
-Projeto de uma webpage clone de uma da page da Netflix.
-Prática de HTML, CSS e JavaScript. 
+
+Desc.: Webpage clone da home da Netflix.
+Prática de HTML, CSS e JavaScript.
+
+Status: Finished
